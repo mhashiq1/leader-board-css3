@@ -148,6 +148,9 @@ hr{
     .player, .blog{
         flex-direction: column;
     }
+    .courses{
+        grid-row-gap:20px;
+    }
     
 }
 /* tablet devices */
